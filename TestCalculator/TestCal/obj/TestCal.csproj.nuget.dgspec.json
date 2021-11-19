@@ -1,0 +1,80 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\JAYASREE\\c#programs\\TestCalculator\\TestCal\\TestCal.csproj": {}
+  },
+  "projects": {
+    "D:\\JAYASREE\\c#programs\\TestCalculator\\TestCalculator\\TestCalculator.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\JAYASREE\\c#programs\\TestCalculator\\TestCalculator\\TestCalculator.csproj",
+        "projectName": "TestCalculator",
+        "projectPath": "D:\\JAYASREE\\c#programs\\TestCalculator\\TestCalculator\\TestCalculator.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\JAYASREE\\c#programs\\TestCalculator\\TestCal\\TestCal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\JAYASREE\\c#programs\\TestCalculator\\TestCal\\TestCal.csproj",
+        "projectName": "TestCal",
+        "projectPath": "D:\\JAYASREE\\c#programs\\TestCalculator\\TestCal\\TestCal.csproj",
+        "packagesPath": "C:\\Users\\I4345\\.nuget\\packages\\",
+        "outputPath": "D:\\JAYASREE\\c#programs\\TestCalculator\\TestCal\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\I4345\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {
+              "D:\\JAYASREE\\c#programs\\TestCalculator\\TestCalculator\\TestCalculator.csproj": {
+                "projectPath": "D:\\JAYASREE\\c#programs\\TestCalculator\\TestCalculator\\TestCalculator.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.16.1, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

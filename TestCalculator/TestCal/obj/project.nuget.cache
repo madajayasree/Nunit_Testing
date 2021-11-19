@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "L5378HkvOW5IQoQdXRQIewRaRL8rdnOMVNAIcSyKjGYqYwCyT9MQsmGDYtMdcQKV7CkUb8TU04Mql1suEtXn3Q==",
+  "success": true,
+  "projectFilePath": "D:\\JAYASREE\\c#programs\\TestCalculator\\TestCal\\TestCal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\I4345\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
+    "C:\\Users\\I4345\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",
+    "C:\\Users\\I4345\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\I4345\\.nuget\\packages\\nunit3testadapter\\3.16.1\\nunit3testadapter.3.16.1.nupkg.sha512"
+  ],
+  "logs": []
+}
